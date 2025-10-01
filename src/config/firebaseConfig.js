@@ -3,9 +3,6 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// TODO: Adicione a configuração do seu projeto Firebase aqui
-// Lembre-se de substituir os valores abaixo pelas suas próprias chaves
-// que você pegou no painel do Firebase (Parte 2, passo 3 do guia).
 const firebaseConfig = {
   apiKey: "AIzaSyA8mBv92IBPq5SmjwJMfH1IhvOO_3RXx7Y",
   authDomain: "react-cadastro-app.firebaseapp.com",
